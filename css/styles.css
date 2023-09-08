@@ -1,0 +1,47 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.page-header{
+  padding: 20px;
+  background-color: beige;
+  color: black; 
+  text-align: center;
+}
+#rcp-link-div{
+  text-align: center;
+  padding: 20px;
+  width: 30%;
+  border-style: solid;
+  border-width:medium;
+}
+.recipe-link{
+  font-size: 18px;
+  color: rgb(0, 204, 255);
+}
+/* recipes css*/
+.rcp-img{
+  height: auto;
+  width: 300px;
+  display: block;
+  text-align: center;
+}
+.rcp-hdr{
+  background-color: rgba(0, 0, 0, 0.39);
+  color: white;
+  text-align: center;
+  font-size: 22px;
+}
+.rcp-txt,
+.ingr,
+.steps{
+  font-size: 18px;
+}
+.rcp-txt{
+  font-weight: bold;
+}
+
+
+
+
+
+
