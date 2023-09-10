@@ -8,15 +8,16 @@
   text-align: center;
 }
 #rcp-link-div{
+  margin: auto;
+  background-color: rgb(227, 244, 255);
   text-align: center;
   padding: 20px;
   width: 30%;
-  border-style: solid;
-  border-width:medium;
+  border: 10px solid rgba(0, 0, 0, 0.39) ;
 }
 .recipe-link{
   font-size: 18px;
-  color: rgb(0, 204, 255);
+  color: black;
 }
 /* recipes css*/
 .rcp-img{
